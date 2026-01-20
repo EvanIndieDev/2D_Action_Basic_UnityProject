@@ -55,6 +55,8 @@ A detailed learning checklist is provided to help you track your progress throug
 
 You can freely skip, revisit, or rearrange episodes based on your own learning pace.
 
+Note: The checklist may be adjusted, expanded, or refined as the video series progresses, in order to better reflect the actual teaching flow and improvements made along the way.
+
 ---
 
 ## 📦 Source Code Availability
